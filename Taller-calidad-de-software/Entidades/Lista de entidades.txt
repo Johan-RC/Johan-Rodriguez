@@ -1,0 +1,39 @@
+1 Airport — Aeropuerto
+
+2 Terminal — Terminal
+
+3 BoardingGate — Puerta de embarque
+
+4 Aircraft — Aeronave
+
+5 Flight — Vuelo
+
+6 Employee — Empleado
+
+7 CrewAssignment — Asignación de tripulación (entidad puente)
+
+8 Passenger — Pasajero
+
+9 Ticket — Boleto
+
+10 Baggage — Equipaje
+
+11 CheckInCounter — Mostrador de check-in
+
+12 SecurityCheckpoint — Punto de control de seguridad
+
+13 CustomsDeclaration — Declaración de aduanas
+
+14 ImmigrationControl — Control de inmigración
+
+15 Airline — Aerolínea
+
+16 MaintenanceRecord — Registro de mantenimiento
+
+17 Hangar — Hangar
+
+18 Runway — Pista de aterrizaje
+
+19 Role — Rol
+
+20 Permission — Permiso
